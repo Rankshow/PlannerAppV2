@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0896E2B6-206C-4ABC-8BDC-9C84A557EFA5}|PlannerAppV2\\PlannerAppV2.csproj|c:\\users\\user\\source\\repos\\plannerappv2\\plannerappv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0896E2B6-206C-4ABC-8BDC-9C84A557EFA5}|PlannerAppV2\\PlannerAppV2.csproj|solutionrelative:plannerappv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3240B03-5BFF-4AA6-9F3E-26939E7138D7}|PlannerAppV2.Share\\PlannerAppV2.Shared.csproj|c:\\users\\user\\source\\repos\\plannerappv2\\plannerappv2.share\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3240B03-5BFF-4AA6-9F3E-26939E7138D7}|PlannerAppV2.Share\\PlannerAppV2.Shared.csproj|solutionrelative:plannerappv2.share\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0896E2B6-206C-4ABC-8BDC-9C84A557EFA5}|PlannerAppV2\\PlannerAppV2.csproj|c:\\users\\user\\source\\repos\\plannerappv2\\plannerappv2\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0896E2B6-206C-4ABC-8BDC-9C84A557EFA5}|PlannerAppV2\\PlannerAppV2.csproj|solutionrelative:plannerappv2\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0896E2B6-206C-4ABC-8BDC-9C84A557EFA5}|PlannerAppV2\\PlannerAppV2.csproj|c:\\users\\user\\source\\repos\\plannerappv2\\plannerappv2\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0896E2B6-206C-4ABC-8BDC-9C84A557EFA5}|PlannerAppV2\\PlannerAppV2.csproj|solutionrelative:plannerappv2\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0896E2B6-206C-4ABC-8BDC-9C84A557EFA5}|PlannerAppV2\\PlannerAppV2.csproj|c:\\users\\user\\source\\repos\\plannerappv2\\plannerappv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0896E2B6-206C-4ABC-8BDC-9C84A557EFA5}|PlannerAppV2\\PlannerAppV2.csproj|solutionrelative:plannerappv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0896E2B6-206C-4ABC-8BDC-9C84A557EFA5}|PlannerAppV2\\PlannerAppV2.csproj|c:\\users\\user\\source\\repos\\plannerappv2\\plannerappv2\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,16 +34,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\PlannerAppV2.Share\\Response\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "PlannerAppV2.Share\\Response\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\PlannerAppV2.Share\\Response\\ApiResponse.cs",
+              "RelativeToolTip": "PlannerAppV2.Share\\Response\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:06:49.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainLayout.razor.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\PlannerAppV2\\Shared\\MainLayout.razor.cs",
               "RelativeDocumentMoniker": "PlannerAppV2\\Shared\\MainLayout.razor.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\PlannerAppV2\\Shared\\MainLayout.razor.cs*",
-              "RelativeToolTip": "PlannerAppV2\\Shared\\MainLayout.razor.cs*",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\PlannerAppV2\\Shared\\MainLayout.razor.cs",
+              "RelativeToolTip": "PlannerAppV2\\Shared\\MainLayout.razor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T10:08:53.423Z",
@@ -47,12 +64,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\PlannerAppV2\\_Imports.razor",
               "RelativeDocumentMoniker": "PlannerAppV2\\_Imports.razor",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\PlannerAppV2\\_Imports.razor*",
-              "RelativeToolTip": "PlannerAppV2\\_Imports.razor*",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\PlannerAppV2\\_Imports.razor",
+              "RelativeToolTip": "PlannerAppV2\\_Imports.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-18T10:07:36.031Z",
@@ -60,12 +77,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\PlannerAppV2\\Program.cs",
               "RelativeDocumentMoniker": "PlannerAppV2\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\PlannerAppV2\\Program.cs*",
-              "RelativeToolTip": "PlannerAppV2\\Program.cs*",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\PlannerAppV2\\Program.cs",
+              "RelativeToolTip": "PlannerAppV2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T10:06:54.598Z",
@@ -73,12 +90,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\PlannerAppV2\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "PlannerAppV2\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\PlannerAppV2\\wwwroot\\index.html*",
-              "RelativeToolTip": "PlannerAppV2\\wwwroot\\index.html*",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\PlannerAppV2\\wwwroot\\index.html",
+              "RelativeToolTip": "PlannerAppV2\\wwwroot\\index.html",
               "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-03-18T10:05:23.031Z",
@@ -86,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\PlannerAppV2\\Shared\\MainLayout.razor",
               "RelativeDocumentMoniker": "PlannerAppV2\\Shared\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\PlannerAppV2\\Shared\\MainLayout.razor*",
-              "RelativeToolTip": "PlannerAppV2\\Shared\\MainLayout.razor*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PlannerAppV2\\PlannerAppV2\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "PlannerAppV2\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-18T10:02:48.445Z",
               "EditorCaption": ""
