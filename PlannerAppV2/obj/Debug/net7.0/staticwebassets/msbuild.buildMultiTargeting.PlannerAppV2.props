@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PlannerAppV2.props" />
+</Project>
